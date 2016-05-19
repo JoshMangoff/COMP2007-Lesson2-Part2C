@@ -18,31 +18,31 @@
 <body>
 
     <nav class="navbar navbar-inverse" role="navigation"> 
-20         <div class="container-fluid"> 
-21             <!-- Brand and toggle get grouped for better mobile display --> 
-22             <div class="navbar-header"> 
-23                 <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1"> 
-24                     <span class="sr-only">Toggle navigation</span> 
-25                     <span class="icon-bar"></span> 
-26                     <span class="icon-bar"></span> 
-27                     <span class="icon-bar"></span> 
-28                 </button> 
-29                 <a class="navbar-brand" href="#">ASP.NET</a> 
-30             </div> 
-31             <!-- Collect the nav links, forms, and other content for toggling --> 
-32             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1"> 
-33                 <ul class="nav navbar-nav navbar-right"> 
-34                     <li><a href="Default.aspx"><i class="fa fa-home fa-lg"></i> Home</a></li> 
-35                     <li><a href="Products.aspx"><i class="fa fa-th fa-lg"></i> Products</a></li> 
-36                     <li><a href="Services.aspx"><i class="fa fa-gear fa-lg"></i> Services</a></li> 
-37                     <li><a href="About.aspx"><i class="fa fa-info fa-lg"></i> About Us</a></li> 
-38                     <li><a href="Contact.aspx"><i class="fa fa-phone fa-lg"></i> Contact Us</a></li> 
-39                 </ul> 
-40             </div> 
-41             <!-- /.navbar-collapse --> 
-42         </div> 
-43         <!-- /.container-fluid --> 
-44     </nav> 
+        <div class="container-fluid"> 
+            <!-- Brand and toggle get grouped for better mobile display --> 
+            <div class="navbar-header"> 
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1"> 
+                    <span class="sr-only">Toggle navigation</span> 
+                    <span class="icon-bar"></span> 
+                    <span class="icon-bar"></span> 
+                    <span class="icon-bar"></span> 
+                </button> 
+                <a class="navbar-brand" href="#">ASP.NET</a> 
+            </div> 
+            <!-- Collect the nav links, forms, and other content for toggling --> 
+            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1"> 
+                <ul class="nav navbar-nav navbar-right"> 
+                    <li><a href="Default.aspx"><i class="fa fa-home fa-lg"></i> Home</a></li> 
+                    <li><a href="Products.aspx"><i class="fa fa-th fa-lg"></i> Products</a></li> 
+                    <li><a href="Services.aspx"><i class="fa fa-gear fa-lg"></i> Services</a></li> 
+                    <li><a href="About.aspx"><i class="fa fa-info fa-lg"></i> About Us</a></li> 
+                    <li><a href="Contact.aspx"><i class="fa fa-phone fa-lg"></i> Contact Us</a></li> 
+                </ul> 
+            </div> 
+            <!-- /.navbar-collapse --> 
+        </div> 
+        <!-- /.container-fluid --> 
+    </nav> 
 
 
     <form id="form1" runat="server">
